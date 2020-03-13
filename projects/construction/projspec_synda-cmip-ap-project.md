@@ -30,11 +30,7 @@ This project goal is to increase the efficiency of building and maintaining the 
 
 ## Milestones & Timeline
 
-Milestones should be tied to each deliverable.  While a detailed description of each deliverable
-should be given in the previous section, this section should reference each deliverable using
-a "short name" and tie to each deliverable a deadline.  Use whatever means you like for indicating
-if a milestone has been completed or not.  (This may need a better interface than a markdown
-document for this.)
+Milestones are in draft below. 
 
 | Milestone     | Deadline  | Done    |
 |:--------------|:---------:|:-------:|
