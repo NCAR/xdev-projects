@@ -1,6 +1,6 @@
 # Project: Synda CMIP AP
 
-CMIP Analysis Platoform Catalog Manager
+CMIP Analysis Platform Catalog Manager
 
 ## Campaigns:
 
