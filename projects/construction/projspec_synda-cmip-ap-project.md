@@ -20,7 +20,7 @@ The goal of this project is to increase the efficiency of building and maintaini
 - Knowledge of esg-intake catalogs
 - Knowledge of synda data transfer tool
 - Knowledge of event based communication
-- Knowledge SQLLite RDB used by synda
+- Knowledge of SQLLite RDB used by synda
 
 ## Deliverables
 
