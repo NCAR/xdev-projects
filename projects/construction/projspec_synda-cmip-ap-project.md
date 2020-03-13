@@ -8,7 +8,7 @@ CMIP Analysis Platoform Catalog Manager
 
 ## Overview
 
-This project goal is to increase the efficiency of building the CMIP Analysis Platform esm-intake catalog.
+This project goal is to increase the efficiency of building and maintaining the CMIP Analysis Platform esm-intake catalog.  As atomic changes are made to the CMIP AP files, the catalog is kept up to date in a timely manner.
 
 ## Repositories
 
