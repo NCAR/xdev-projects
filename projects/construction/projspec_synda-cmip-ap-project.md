@@ -1,6 +1,6 @@
-# Project: {CODENAME}
+# Project: Synda CMIP AP
 
-Long Project Name
+CMIP Analysis Platoform Catalog Manager
 
 ## Campaigns:
 
