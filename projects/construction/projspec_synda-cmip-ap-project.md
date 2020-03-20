@@ -4,7 +4,7 @@ CMIP Analysis Platform Catalog Manager
 
 ## Campaigns:
 
-- WORKFLOWS (?)
+- WORKFLOWS
 
 ## Overview
 
