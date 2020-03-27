@@ -37,5 +37,13 @@ Milestones are in draft below.
 
 | Milestone     | Deadline  | Done    |
 |:--------------|:---------:|:-------:|
-| Prototype     | 4/30/2020 | &#9746; |
+| Research      | 4/30/2020 | &#9746; |
+| Identify Development Environment | 5/15/2020 | &#9746; |
+| Prototype     | 5/30/2020 | &#9746; |
 | Production    | 6/30/2020 | &#9746; |
+
+## References
+
+Related information.
+
+[Synda Documentation](http://prodiguer.github.io/synda/)
