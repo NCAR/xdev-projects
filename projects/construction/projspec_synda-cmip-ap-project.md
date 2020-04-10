@@ -9,7 +9,6 @@ CMIP Analysis Platform Catalog Manager
 ## Overview
 
 The goal of this project is to increase the efficiency of building and maintaining the CMIP Analysis Platform esm-intake catalog.  As atomic changes are made to the CMIP AP files, the catalog is kept up to date in a timely manner.  Ideally this process would be automated entirely.
-
 ## Repositories
 
 - ?
@@ -47,3 +46,7 @@ Milestones are in draft below.
 Related information.
 
 [Synda Documentation](http://prodiguer.github.io/synda/)
+
+[Synda Code Repository](https://github.com/Prodiguer/synda)
+
+[Intake-esm Catalog Builder Scripts](https://github.com/NCAR/intake-esm-datastore/tree/master/builders)
