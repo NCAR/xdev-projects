@@ -211,12 +211,12 @@ or
 
 ### esm-collection-spec side
 
-- [ ] Update the [specification file](https://github.com/NCAR/esm-collection-spec/blob/master/collection-spec/collection-spec.md)
-- [ ] Incorporate the [`esmcol`](https://github.com/NCAR/esm-collection-spec/blob/master/esmcol_validator/validator.py) validator into `intake-esm`
+- [X] Update the [specification file](https://github.com/NCAR/esm-collection-spec/blob/master/collection-spec/collection-spec.md)
+- [X] Incorporate the [`esmcol`](https://github.com/NCAR/esm-collection-spec/blob/master/esmcol_validator/validator.py) validator into `intake-esm`
 
 ### intake-esm side
 
-- [ ] Update/add a new argument `catalog_type` to [`serialize() method`](https://github.com/NCAR/intake-esm/blob/master/intake_esm/core.py#L131)???
+- [X] Update/add a new argument `catalog_type` to [`serialize() method`](https://github.com/NCAR/intake-esm/blob/master/intake_esm/core.py#L131)???
 
   - Accepted values for `catalog_type` would include `dict` for `catalog_dict`     key and `file` for `catalog_file` key.
   - Errors if `catalog_type` not in `{"dict", "file"}`
@@ -247,10 +247,16 @@ or
 
 | Milestone        | Deadline   | Done    |
 |:-----------------|:----------:|:-------:|
-| 1. Move `esmcol-validator` into its own repo | 2020-01-21 | &#9744; |
-| 2. Update `esmcol-validator` and cut first release | 2020-01-21 | &#9744; |
+| 1. Move `esmcol-validator` into its own repo | 2020-01-21 | &#9746; |
+| 2. Update `esmcol-validator` and cut first release | 2020-01-21 | &#9746; |
 | 3. Incorporate `esmcol-validator` into intake-esm | 2020-01-22 | &#9744; |
-| 4. Support Single File Catalog in intake-esm | 2020-01-23 | &#9744; |
+| 4. Support Single File Catalog in intake-esm | 2020-01-23 | &#9746; |
+
+Pull request for #1:  [https://github.com/NCAR/esm-collection-spec/pull/14]
+
+Pull request for #3:  [https://github.com/NCAR/intake-esm/pull/199]
+
+Pull request for #4:  [https://github.com/NCAR/intake-esm/pull/195]
 
 ## References
 
