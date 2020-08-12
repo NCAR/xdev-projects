@@ -1,3 +1,6 @@
+**THE CONTENTS OF THIS REPO HAVE BEEN MOVED INTO THE NCAR/XDEV REPO!!!  Please use
+that repository in the future.**
+
 # xdev-projects
 All past, current, and future projects and planning documents for the Xdev Team.
 
